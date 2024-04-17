@@ -8,15 +8,10 @@ Employee Database is SQL employee data base tracker that allows you to veiw your
 
 ## Table of Contents:
 
-- [Task](#Task)
 - [Usage Information](#Usage-Information)
 
 - [Questions](#questions) 
 
-
-## Task
-
-Create an interfaces that allows non-developers to easily view and interact with information stored in an SQL Employee Tracker database. These interfaces are called content management systems (CMS). Objective is to build a command-line application from scratch to manage a company's employee database, using Node.js, Inquirer, and MySQL. Once done, create a walkthrough video that demonstrates the interfaces functionality and acceptance criteria + BONUS acceptance criteria.
 
 ## User Story
 ```md 
@@ -57,13 +52,9 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 
 
-## Walkthrough :
-
-<iframe src="https://drive.google.com/file/d/1NscKUSo7xOWOvKGv5xaPbdfqkxXJhkbR/preview" width="640" height="480"></iframe>
-
 ## References
 
-views Thomas Calle 
+Thomas Calle repo
 
   ## Questions
   
