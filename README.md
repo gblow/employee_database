@@ -10,8 +10,7 @@ Employee Database is SQL employee data base tracker that allows you to veiw your
 
 - [Task](#Task)
 - [Usage Information](#Usage-Information)
-- [Installation Process](#Installation-Process)
-- [Built With](#Built-With)
+
 - [Questions](#questions) 
 
 
@@ -62,20 +61,9 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 <iframe src="https://drive.google.com/file/d/1NscKUSo7xOWOvKGv5xaPbdfqkxXJhkbR/preview" width="640" height="480"></iframe>
 
-## Installation Process
-1. Clone my repo from Github
-2. Install the following: 
-- Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
-- Console.table: [Version 0.10.0](https://www.npmjs.com/package/console.table)
+## References
 
-## Built With
-- JavaScript 
-- Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-- MySQL2: [Version 3.1.2](https://www.npmjs.com/package/mysql2)
-- Console.table: [Version 0.10.0](https://www.npmjs.com/package/console.table)
-- Visual Studio Code: [Website](https://code.visualstudio.com/)
-
+views Thomas Calle 
 
   ## Questions
   

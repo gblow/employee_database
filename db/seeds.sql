@@ -1,5 +1,6 @@
-INSERT INTO departments (department_name)
-VALUES 
+INSERT INTO department
+    (name)
+VALUES
 ('Executive Board'),
 ('Marketing'),
 ('Human Resources'),
@@ -11,8 +12,9 @@ VALUES
 ('Legal'),
 ('Strategy and Development');
 
-INSERT INTO roles (title, salary, department_id)
-VALUES 
+INSERT INTO role
+    (title, salary, department_id)
+VALUES
 ('Chief Executive Officer', 525000.00, 1),
 ('HR Manager', 125000.00, 2),
 ('Marketing Director', 189000.00, 3),
@@ -24,7 +26,8 @@ VALUES
 ('VP Legal', 95000.00, 9),
 ('Strategy and Development Director', 135000.00, 10);
 
-INSERT INTO employee (first_name, last_name, role_id, manager_id)
+INSERT INTO employee
+    (first_name, last_name, role_id, manager_id)
 VALUES
 ('Tyson', 'Yu', 1, 1),
 ('Michael', 'Simpson', 2, 1),
